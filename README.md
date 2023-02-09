@@ -7,7 +7,7 @@ Testar minhas habilidades em Sequelize
 Criar uma API para simular o gerenciamento de um site de Blogs
 Desenvolver um sistema de login e validação de usuário
 
-##Tecnologias
+## Tecnologias
 Sequelize
 NodeJs
 Javascript
